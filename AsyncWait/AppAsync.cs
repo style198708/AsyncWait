@@ -10,7 +10,7 @@ namespace AsyncWait
     {
         public AppAsync()
         {
-            Console.WriteLine("MyClass() End."); 
+            Console.WriteLine("MyClass() End.");   
         }
         /// <summary>
         /// 加法
